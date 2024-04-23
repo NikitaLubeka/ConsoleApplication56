@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:00:42.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FNjZrVlw8oh8mqkV1WBx" version="24.2.5" type="google">
+  <diagram name="Page-1" id="Ucr8XeezXuHebE5scPcH">
+    <mxGraphModel dx="1134" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn4OpA3xp8R1hQnQj8Ke-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn4OpA3xp8R1hQnQj8Ke-1" target="mn4OpA3xp8R1hQnQj8Ke-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-1" value="Персонаж" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;Ім&#39;я&lt;/div&gt;&lt;div&gt;Рівень&lt;/div&gt;&lt;div&gt;Здоров`є&lt;/div&gt;&lt;div&gt;сила&lt;/div&gt;&lt;div&gt;спритність&lt;/div&gt;&lt;div&gt;інтелект&lt;/div&gt;&lt;div&gt;інвентар&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn4OpA3xp8R1hQnQj8Ke-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn4OpA3xp8R1hQnQj8Ke-4" target="mn4OpA3xp8R1hQnQj8Ke-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-4" value="Предмет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-6" value="Назва&lt;div&gt;Тип&lt;/div&gt;&lt;div&gt;Вартість&lt;/div&gt;&lt;div&gt;Вага&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn4OpA3xp8R1hQnQj8Ke-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-7" value="Гра" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mn4OpA3xp8R1hQnQj8Ke-9" value="Персонажі&lt;div&gt;Предмети&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="250" width="135" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
